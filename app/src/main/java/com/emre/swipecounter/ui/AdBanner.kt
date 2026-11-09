@@ -25,7 +25,7 @@ import com.google.android.gms.ads.LoadAdError
  */
 private object AdUnitIds {
     // Google's official test ID (Closed Testing süresince bu kullanılacak)
-    private const val TEST_BANNER = "ca-app-pub-3940256099942544/6300978111"
+    private const val TEST_BANNER = "ca-app-pub-3756349659210390/5803875769"
     // Your real production ID (Production'a geçince bunu aktif et)
     private val PROD_BANNER = BuildConfig.ADMOB_BANNER_ID
     

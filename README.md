@@ -41,9 +41,6 @@ ADMOB_BANNER_ID=your_admob_banner_id_here
 
 The app will read these keys during build time and inject them via `BuildConfig`.
 
-## 📸 Screenshots
-
-*(Add your app screenshots here to show off the UI!)*
 
 ## 📄 License
 
